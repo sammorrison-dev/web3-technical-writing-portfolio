@@ -57,6 +57,7 @@ Complete technical reference documentation for a Solidity staking contract. Incl
 
 ---
 
+
 ## Skills
 
 - **Technical Writing** - API documentation, developer guides, tutorials
