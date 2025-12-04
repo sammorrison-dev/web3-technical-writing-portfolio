@@ -20,6 +20,16 @@ Complete guide to fetching cryptocurrency prices using Python and the CoinGecko 
 - Error handling and troubleshooting
 - Production-ready code patterns
 
+### [Uniswap Token Swap Guide (JavaScript + Web3)](./uniswap-swap-javascript-guide.md)
+Complete guide to programmatically swapping tokens on Uniswap V3 using JavaScript and ethers.js. Covers DeFi protocol integration, smart contract interactions, token approvals, slippage protection, and production-ready error handling.
+
+**Topics covered:**
+- DeFi protocol integration (Uniswap V3)
+- Smart contract interactions with ethers.js
+- ERC-20 token operations and approvals
+- Slippage protection and price impact calculation
+- Production error handling and best practices
+
 ---
 
 ## About Me
