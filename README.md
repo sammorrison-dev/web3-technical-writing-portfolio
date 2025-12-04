@@ -45,6 +45,17 @@ Production-ready wallet connection component for Web3 applications using React a
 - User-friendly connection flow and error messages
 
 ---
+### [SimpleStaking Smart Contract Documentation](./staking-contract-documentation.md)
+Complete technical reference documentation for a Solidity staking contract. Includes function references, event documentation, error handling, integration examples (JavaScript + React), security considerations, and deployment instructions.
+
+**Topics covered:**
+- Solidity smart contract documentation
+- Function and event reference tables
+- Integration code examples (ethers.js, React hooks)
+- Security considerations and audit recommendations
+- Hardhat deployment and verification
+
+---
 
 ## Skills
 
